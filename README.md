@@ -1,5 +1,5 @@
 # ML-Sklearn-Face-Recognition-on-Olivetti-Dataset
-Machine Algorithms: 1. Logistics Regression 2. RandomForestRegressor 3. KNN 4. SVM 5. Naive Bayes (PCA and without PCA)
+Machine Algorithms: 1. Logistics Regression 2. RandomForestRegressor 3. KNN 4. SVM 5. Naive Bayes (with PCA and without PCA)
 Libraries: sklearn, Matplotlib, Pandas, Numpy
 Olivetti Dataset: 
 The data set contains 10 face images for each subject. The data set has 40 different person-owned,
